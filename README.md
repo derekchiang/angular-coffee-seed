@@ -1,4 +1,6 @@
-# angular-seed — the seed for AngularJS apps
+# angular-coffee-seed — the seed for AngularJS apps, translated to CoffeeScript
+
+**This project is Angular Seed translated to CoffeeScript, using the JS2Coffee utility.  It's based on Angular Seed 1.0.7**
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
 You can use it to quickly bootstrap your angular webapp projects and dev environment for these
